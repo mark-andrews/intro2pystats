@@ -8,3 +8,17 @@ Based on `matplotlib`, and providing a much higher level interface to the plot, 
 This allows us to produce complex data visualizations with a minimal amount of code. 
 Finally, we will introduce how to to perform widely used statistical analysis in Python. Here we will
 focus on `statsmodels`, which provides many of the mostly widely used statistical methods.
+
+# Jupyter notebook
+
+The Jupyter notebook for this course is [here](https://github.com/mark-andrews/intro2pystats/blob/master/notebooks/notebook.ipynb).
+Usually, Jupyter notebooks render as a nice webpage in GitHub.
+Sometimes, it does require a few reloads to get that.
+But of course, you can always download it and use it in your Jupyter or upload it and use it on [Colab](https://colab.research.google.com/).
+
+## Use the notebook online with *mybinder*
+
+The [mybinder](https://mybinder.org) service allows you to share Jupyter notebooks so that others can use them (i.e. run them) online directly.
+Click the button below to access this repo in *mybinder*:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mark-andrews/intro2pystats/HEAD)
